@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "429908977236",
+    "firebase_url": "https://chattingsvt.firebaseio.com",
+    "project_id": "chattingsvt",
+    "storage_bucket": "chattingsvt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429908977236:android:0180fe8ba36aa4c284efc1",
+        "android_client_info": {
+          "package_name": "com.icandothisallday2020.ex85firebasechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429908977236-vcn2n2frpcobtstpljuuo57ln8779frk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjBEcpEWXgNqFrgKxFSk3rxNpDJETKq-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429908977236-vcn2n2frpcobtstpljuuo57ln8779frk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
